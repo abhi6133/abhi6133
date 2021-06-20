@@ -1,5 +1,5 @@
 - 👋 Hi, I’m abhishek
-- 👀 I’m interested in cloud computing (AWS) and DevOps roles
+- 👀 I’m interested in cloud computing (AWS) and DevOps
 - 🌱 I’m currently learning DevOps concepts
 
 <!---
